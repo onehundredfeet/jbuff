@@ -1,0 +1,4 @@
+--class-path hx
+--class-path test
+--main Test
+--hl bin/test.hl

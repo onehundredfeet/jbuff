@@ -1,0 +1,11 @@
+{
+	"name" : "jbuff",
+	"url" : "https://github.com/onehundredfeet/jbuff",
+	"license" : "MIT",
+	"contributors" : ["onehundredfeet"],
+	"description" : "JSON w/Buffer file format",
+	"version" : "0.1.0",
+	"releasenote" : "",
+	"classPath": "hx",
+	"dependencies": {}
+}
