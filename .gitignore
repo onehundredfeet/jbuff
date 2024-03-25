@@ -2,3 +2,6 @@ bin
 .DS_Store
 test/auto.jbuff
 test/helloworld.jbuff
+test/test
+build
+build
